@@ -71,5 +71,5 @@ Clarity is what allows people to move forward.
 
 ## 🧭 Navigation
 
-➡️ [Teaching Systems](main/teaching-systems/)<br/>
+➡️ [Teaching Systems](/teaching-systems/tree/main/)<br/>
 
