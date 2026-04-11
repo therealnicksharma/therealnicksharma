@@ -10,6 +10,14 @@
 
 ---
 
+# Nikash “Nick” Sharma
+
+Systems | Strategy | Structured Thinking  
+
+I turn complex systems into clear, structured understanding — helping both technical and non-technical teams move forward with confidence.
+
+---
+
 ## 🧠 About Me
 
 I approach problems through systems thinking — breaking down complexity into structured, repeatable workflows.
@@ -55,9 +63,12 @@ Across it all, the consistent thread is clarity — understanding how things act
 Focused on contributing to structured, system-driven environments — while continuing to deepen technical expertise and teaching ability.
 
 ---
+import { TfiThought } from "react-icons/tfi";
+<TfiThought />
 
-## Philosophy
+##  Philosophy
 
 Complexity isn’t the goal.  
 
 Understanding is.
+
