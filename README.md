@@ -9,13 +9,14 @@
 
 
 ---
+<p align="center">
+  # Nikash “Nick” Sharma
+</p>
+<span style="color:gray;">Systems | Strategy | Structured Thinking  </span>
 
-# Nikash “Nick” Sharma
-
-Systems | Strategy | Structured Thinking  
-
-I turn complex systems into clear, structured understanding — helping both technical and non-technical teams move forward with confidence.
-
+<p align="center">
+  <i>I turn complex systems into clear, structured understanding — helping both technical and non-technical teams move forward with confidence.</i>
+</p>
 ---
 
 ## 🧠 About Me
