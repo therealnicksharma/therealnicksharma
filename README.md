@@ -42,7 +42,7 @@ Across it all, the consistent thread is clarity — understanding how things act
 
 ---
 
-## 🧩 Strengths
+## 💪 Strengths
 
 - Systems thinking and problem decomposition  
 - Clear communication and structured documentation  
