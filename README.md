@@ -74,8 +74,8 @@ Clarity is what allows people to move forward.
 ---
 
 ## 🧭 Repositories
-- [Teaching Systems](https://github.com/therealnicksharma/teaching-systems)
-- [Physics Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/physics)
-- [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/writing)
-- [Systems Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/systems)
+➡️ [Teaching Systems](https://github.com/therealnicksharma/teaching-systems)
+➡️ [Physics Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/physics)
+➡️ [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/writing)
+➡️ [Systems Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/systems)
 
