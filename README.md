@@ -72,5 +72,5 @@ Clarity is what allows people to move forward.
 
 ## 🧭 Repositories
 - [Teaching Systems](https://github.com/therealnicksharma/teaching-systems)
-- [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/writing/)
+- [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/systems/writing/)
 
