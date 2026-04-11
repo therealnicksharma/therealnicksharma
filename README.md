@@ -68,9 +68,14 @@ Clarity is what allows people to move forward.
 
 
 ---
+## 🚀 Start Here
+- [PB&J System Lesson (Simple Teaching Demo)](systems/pbj-system.md)
+- [Full Teaching Systems Overview](README.md)
 
+---
 
 ## 🧭 Repositories
 - [Teaching Systems](https://github.com/therealnicksharma/teaching-systems)
 - [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/writing/README.md)
+
 
