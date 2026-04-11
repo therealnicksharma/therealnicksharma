@@ -1,4 +1,4 @@
-# Nikash Sharma (Nick)
+<h1 align="center">Nikash “Nick” Sharma</h1>
 
 <p align="center">
   <span style="color:gray;">Systems | Strategy | Structured Thinking  </span>
