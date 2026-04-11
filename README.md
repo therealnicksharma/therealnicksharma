@@ -69,13 +69,13 @@ Clarity is what allows people to move forward.
 
 ---
 ## 🚀 Start Here
-- [PB&J Teaching Demo](https://github.com/therealnicksharma/teaching-systems/blob/main/systems/pbj-system.md)
+➡️ [PB&J Teaching Demo](https://github.com/therealnicksharma/teaching-systems/blob/main/systems/pbj-system.md)
 
 ---
 
 ## 🧭 Repositories
-➡️ [Teaching Systems](https://github.com/therealnicksharma/teaching-systems) <br/>
-➡️ [Physics Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/physics) <br/>
-➡️ [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/writing) <br/>
-➡️ [Systems Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/systems) <br/>
+- [Teaching Systems](https://github.com/therealnicksharma/teaching-systems) <br/>
+- [Physics Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/physics) <br/>
+- [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/writing) <br/>
+- [Systems Lessons](https://github.com/therealnicksharma/teaching-systems/blob/main/systems) <br/>
 
