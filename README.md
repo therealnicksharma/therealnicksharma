@@ -1,12 +1,16 @@
-# Nikash “Nick” Sharma
+<p align="center">
+  <b style="font-size:28px;">Nikash Sharma (Nick)</b><br>
+  <span style="color:gray;">Systems | Strategy | Structured Thinking</span>
+</p>
 
-Systems | Strategy | Structured Thinking  
+<p align="center">
+  <i>I turn complex systems into clear, structured understanding — helping both technical and non-technical teams move forward with confidence.</i>
+</p>
 
-I turn complex systems into clear, structured understanding — helping both technical and non-technical teams move forward with confidence.
 
 ---
 
-## About Me
+## 🧠 About Me
 
 I approach problems through systems thinking — breaking down complexity into structured, repeatable workflows.
 
@@ -15,11 +19,11 @@ My background spans:
 - Operational execution  
 - Hands-on software and systems development  
 
-Across all of it, the consistent thread is clarity — understanding how things actually work, then making them understandable to others.
+Across it all, the consistent thread is clarity — understanding how things actually work, then making them understandable to others.
 
 ---
 
-## Technical & Systems Experience
+## ⚙️ Technical & Systems Experience
 
 - Built applications and workflow-driven systems from the ground up  
 - Designed user flows, operational processes, and structured systems  
@@ -28,7 +32,7 @@ Across all of it, the consistent thread is clarity — understanding how things 
 
 ---
 
-## Current Focus
+## 📈 Current Focus
 
 - Linux systems and environments  
 - GitHub and version control workflows  
@@ -37,7 +41,7 @@ Across all of it, the consistent thread is clarity — understanding how things 
 
 ---
 
-## Strengths
+## 🧩 Strengths
 
 - Systems thinking and problem decomposition  
 - Clear communication and structured documentation  
@@ -46,7 +50,7 @@ Across all of it, the consistent thread is clarity — understanding how things 
 
 ---
 
-## Direction
+## 🎯 Direction
 
 Focused on contributing to structured, system-driven environments — while continuing to deepen technical expertise and teaching ability.
 
