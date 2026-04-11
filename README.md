@@ -69,7 +69,8 @@ Clarity is what allows people to move forward.
 
 ---
 
-## 🧭 Navigation
 
-➡️ [Teaching Systems](therealnicksharma/teaching-systems/tree/main/)<br/>
+## 🧭 Repositories
+- [Teaching Systems](https://github.com/therealnicksharma/teaching-systems)
+- [Writing Lessons](https://github.com/therealnicksharma/teaching-systems/writing/)
 
