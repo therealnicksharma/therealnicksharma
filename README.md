@@ -1,6 +1,4 @@
-<p>
 # Nikash Sharma (Nick)
-</p>
 
 <p align="center">
   <span style="color:gray;">Systems | Strategy | Structured Thinking  </span>
@@ -58,12 +56,12 @@ Across it all, the consistent thread is clarity — understanding how things act
 Focused on contributing to structured, system-driven environments — while continuing to deepen technical expertise and teaching ability.
 
 ---
-import { TfiThought } from "react-icons/tfi";
-<TfiThought />
 
-##  Philosophy
+## 🧩 Philosophy
 
 Complexity isn’t the goal.  
 
 Understanding is.
+
+Clarity is what allows people to move forward.
 
