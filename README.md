@@ -1,36 +1,59 @@
-<p align="center">
-  <b style="font-size:28px;">Nikash “Nick” Sharma</b><br>
-  <span style="color:gray;">Systems | Strategy | Structured Thinking</span>
-</p>
+# Nikash “Nick” Sharma
 
-<p align="center">
-  <i>Bridging financial strategy, operational execution, and technical systems</i>
-</p>
+Systems | Strategy | Structured Thinking  
+
+I turn complex systems into clear, structured understanding — helping both technical and non-technical teams move forward with confidence.
 
 ---
 
-# 🧭 Nikash “Nick” Sharma
+## About Me
 
-Systems-focused professional with a background spanning financial strategy, operational execution, and hands-on software development.
+I approach problems through systems thinking — breaking down complexity into structured, repeatable workflows.
 
-## 🧠 About Me
-I approach problems through systems thinking — breaking down complex processes into structured, repeatable workflows. My experience includes building applications, coordinating multi-party projects, and working in environments that require precision, accountability, and clear communication.
+My background spans:
+- Financial strategy  
+- Operational execution  
+- Hands-on software and systems development  
 
-## ⚙️ Technical & Systems Experience 
-- Built applications from the ground up, including workflow-driven and marketplace-style platforms
-- Experience designing systems, user flows, and operational processes
-- Strong ability to learn new tools and technologies quickly
+Across all of it, the consistent thread is clarity — understanding how things actually work, then making them understandable to others.
 
-## 📈 Current Focus
-- Linux systems and environments
-- GitHub and version control workflows
-- Financial licensing (SIE → Series 7 → 63/65)
+---
 
-## 🧩 Strengths
-- Systems thinking and problem decomposition
-- Structured communication and documentation
-- High accountability in regulated environments
-- Cross-functional understanding (technical + operational + financial)
+## Technical & Systems Experience
 
-### 🎯 Direction
-Focused on contributing to structured, system-driven environments while continuing to build technical depth and operational clarity.
+- Built applications and workflow-driven systems from the ground up  
+- Designed user flows, operational processes, and structured systems  
+- Translated complex requirements into usable, real-world solutions  
+- Learn new tools and technologies quickly when needed  
+
+---
+
+## Current Focus
+
+- Linux systems and environments  
+- GitHub and version control workflows  
+- Technical training and structured learning  
+- Financial licensing (SIE → Series 7 → 63/65)  
+
+---
+
+## Strengths
+
+- Systems thinking and problem decomposition  
+- Clear communication and structured documentation  
+- High accountability in complex or regulated environments  
+- Ability to bridge technical, operational, and financial domains  
+
+---
+
+## Direction
+
+Focused on contributing to structured, system-driven environments — while continuing to deepen technical expertise and teaching ability.
+
+---
+
+## Philosophy
+
+Complexity isn’t the goal.  
+
+Understanding is.
